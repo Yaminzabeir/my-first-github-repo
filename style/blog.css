@@ -1,10 +1,15 @@
-dev{
-    color: rgb(19, 1, 16);
+div{
+
     background-color: aqua;
-    font-size: xx-large;
-    margin: 10px;
-    font-weight: 800;
-
-
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+    border: 50px;
+    background-position: 30px;
+    text-align: justify;
+    border-radius: 5px;
+    
+}
+h3{
+    color: rgb(120, 68, 204);
 }
 
